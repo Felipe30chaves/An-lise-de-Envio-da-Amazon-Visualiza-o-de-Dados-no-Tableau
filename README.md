@@ -32,7 +32,7 @@ Painel interativo no Tableau com:
 ▶️ [Acesse o Dashboard no Tableau Public](https://public.tableau.com/app/profile/felipe.menezes.chaves/viz/AmazonShippingAnalytics_17517523028950/Dashboard1)
 
 ### 🛠️ Tecnologias Utilizadas
-- Tableau Desktop 2023.1
+- Tableau Desktop Public 2025.1
 - Pré-processamento de dados: Python (Pandas)
 - Fontes de dados: Arquivos CSV
 
