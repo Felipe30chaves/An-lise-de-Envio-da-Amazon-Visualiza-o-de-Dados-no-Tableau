@@ -27,7 +27,7 @@ Painel interativo no Tableau com:
 - Visualização de métricas-chave
 
 #### Visualização do Projeto
-[![Dashboard Preview](https://example.com/preview-image.jpg)](https://public.tableau.com/app/profile/wendy.minai/viz/AmazonShippingAnalytics_16727658180260/Dashboard1)
+[![Dashboard Preview](https://github.com/Felipe30chaves/An-lise-de-Envio-da-Amazon-Visualiza-o-de-Dados-no-Tableau/blob/main/image/Amazon%20Shipping%20Analytics%20Image.PNG)
 
 ▶️ [Acesse o Dashboard no Tableau Public](https://public.tableau.com/app/profile/felipe.menezes.chaves/viz/AmazonShippingAnalytics_17517523028950/Dashboard1)
 
